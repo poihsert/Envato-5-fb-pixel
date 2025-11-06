@@ -11,10 +11,10 @@ const App: React.FC = () => {
   const avatarImageUrl = 'https://i.ibb.co/XfpcC3S0/Frame-1000008344.png';
   
   // ссылка для редиректа
-  const immediateRedirectLink = 'https://tg.pulse.is/envato265_bot?start=6828f8ba436d7292f30bf71e|utm_campaign=ENVATO1LANDING';
+  const immediateRedirectLink = 'https://tg.pulse.is/envato265_bot?start=6828f8ba436d7292f30bf71e|utm_campaign=ENVATO5fbLANDING';
   
   // ссылка на тгк для кнопки 
-  const telegramLink = 'https://tg.pulse.is/envato265_bot?start=6828f8ba436d7292f30bf71e|utm_campaign=ENVATO1LANDING'; 
+  const telegramLink = 'https://tg.pulse.is/envato265_bot?start=6828f8ba436d7292f30bf71e|utm_campaign=ENVATO5fbLANDING'; 
 
   useEffect(() => {
     if (ENABLE_IMMEDIATE_REDIRECT) {
